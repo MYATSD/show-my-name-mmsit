@@ -1,0 +1,22 @@
+{
+  "name": "show-my-name-mmsit",
+  "version": "1.0.0",
+  "description": "Testing....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MYATSD/show-my-name-mmsit.git"
+  },
+  "keywords": [
+    "show-my-name-mmsit"
+  ],
+  "author": "Hsu Myat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MYATSD/show-my-name-mmsit/issues"
+  },
+  "homepage": "https://github.com/MYATSD/show-my-name-mmsit#readme"
+}
